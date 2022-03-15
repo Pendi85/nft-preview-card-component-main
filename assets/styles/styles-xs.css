@@ -21,6 +21,15 @@ FOR SMALL DEVICES
         border-radius: 4vw;
     }
 
+    .visualize-nft-div {
+        border-radius: 4vw;
+    }
+
+    .visualize-nft-div img {
+        width: 11vw;
+        height: 11vw;
+    }
+
     .price-eth, .time-left {
         gap: 2vw;
     }
