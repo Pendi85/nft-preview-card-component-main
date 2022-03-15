@@ -1,0 +1,50 @@
+/**
+FOR SMALL DEVICES
+**/
+@media screen and (max-width: 450px) {
+    h1 {
+        font-size: 6.3vw;
+    }
+    
+    p {
+        font-size: 4.5vw;
+    }
+
+    .container {
+        margin: 0px 5vw;
+        padding: 7.5vw;
+        border-radius: 4vw;
+        gap: 5vw;
+    }
+
+    .nft img {
+        border-radius: 4vw;
+    }
+
+    .price-eth, .time-left {
+        gap: 2vw;
+    }
+
+    .time-left img {
+        width: 5vw;
+        height: 5vw;
+    }
+    
+    .price-eth img {
+        width: 3vw;
+        height: 4.9vw;
+    }
+
+    .footer-card {
+        align-items: center;
+    }
+    
+    .footer-card img {
+        width: 7.5vw;
+        height: 7.5vw;
+    }
+    
+    .footer-card p {
+        margin-left: 5vw;
+    }
+}
